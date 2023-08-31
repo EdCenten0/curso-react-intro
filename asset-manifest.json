@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/curso-react-intro/static/css/main.bbce1e86.css",
-    "main.js": "/curso-react-intro/static/js/main.84e7f53e.js",
-    "index.html": "/curso-react-intro/index.html",
-    "static/media/delete.svg": "/curso-react-intro/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/curso-react-intro/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.bbce1e86.css.map": "/curso-react-intro/static/css/main.bbce1e86.css.map",
-    "main.84e7f53e.js.map": "/curso-react-intro/static/js/main.84e7f53e.js.map"
+    "main.css": "/TODOs-react-app/static/css/main.b37d6b85.css",
+    "main.js": "/TODOs-react-app/static/js/main.99eb6313.js",
+    "static/media/programmer.svg": "/TODOs-react-app/static/media/programmer.1815c167fcfc22d247e4dd300ac26287.svg",
+    "static/media/cancel-black.svg": "/TODOs-react-app/static/media/cancel-black.3112286c1508707a53e1.svg",
+    "static/media/cancel-red.svg": "/TODOs-react-app/static/media/cancel-red.a720633025c574527d2a.svg",
+    "index.html": "/TODOs-react-app/index.html",
+    "static/media/send.svg": "/TODOs-react-app/static/media/send.9e950b97e3c80cd0c3a393007b38c276.svg",
+    "static/media/check.svg": "/TODOs-react-app/static/media/check.65f89881b03d3012db945676e4c093a0.svg",
+    "main.b37d6b85.css.map": "/TODOs-react-app/static/css/main.b37d6b85.css.map",
+    "main.99eb6313.js.map": "/TODOs-react-app/static/js/main.99eb6313.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbce1e86.css",
-    "static/js/main.84e7f53e.js"
+    "static/css/main.b37d6b85.css",
+    "static/js/main.99eb6313.js"
   ]
 }
