@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/EdCenten0/TODOs-react-app.git/static/css/main.41d8e237.css",
-    "main.js": "/EdCenten0/TODOs-react-app.git/static/js/main.d3bac6f0.js",
-    "static/media/programmer.svg": "/EdCenten0/TODOs-react-app.git/static/media/programmer.1815c167fcfc22d247e4dd300ac26287.svg",
-    "static/media/cancel-black.svg": "/EdCenten0/TODOs-react-app.git/static/media/cancel-black.3112286c1508707a53e1.svg",
-    "static/media/cancel-red.svg": "/EdCenten0/TODOs-react-app.git/static/media/cancel-red.a720633025c574527d2a.svg",
-    "index.html": "/EdCenten0/TODOs-react-app.git/index.html",
-    "static/media/send.svg": "/EdCenten0/TODOs-react-app.git/static/media/send.9e950b97e3c80cd0c3a393007b38c276.svg",
-    "static/media/check.svg": "/EdCenten0/TODOs-react-app.git/static/media/check.65f89881b03d3012db945676e4c093a0.svg",
-    "main.41d8e237.css.map": "/EdCenten0/TODOs-react-app.git/static/css/main.41d8e237.css.map",
-    "main.d3bac6f0.js.map": "/EdCenten0/TODOs-react-app.git/static/js/main.d3bac6f0.js.map"
+    "main.css": "./static/css/main.0438ab1f.css",
+    "main.js": "./static/js/main.256937b5.js",
+    "static/media/programmer.svg": "./static/media/programmer.1815c167fcfc22d247e4dd300ac26287.svg",
+    "static/media/cancel-black.svg": "./static/media/cancel-black.3112286c1508707a53e1.svg",
+    "static/media/cancel-red.svg": "./static/media/cancel-red.a720633025c574527d2a.svg",
+    "static/media/send.svg": "./static/media/send.9e950b97e3c80cd0c3a393007b38c276.svg",
+    "index.html": "./index.html",
+    "static/media/check.svg": "./static/media/check.65f89881b03d3012db945676e4c093a0.svg",
+    "main.0438ab1f.css.map": "./static/css/main.0438ab1f.css.map",
+    "main.256937b5.js.map": "./static/js/main.256937b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.41d8e237.css",
-    "static/js/main.d3bac6f0.js"
+    "static/css/main.0438ab1f.css",
+    "static/js/main.256937b5.js"
   ]
 }
